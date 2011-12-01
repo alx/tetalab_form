@@ -1,0 +1,49 @@
+identification:
+  titre: Tetala@b
+  dossier: 313012381
+  siren: 529 286 049 00018
+  addresse:
+    escalier:
+    batiment: A3
+    numero: 3
+    extension: 
+    type: boulevard
+    nom: des Minimes
+    BP:
+    code: 31200
+    ville: Toulouse
+  declaration: Toulouse
+membre1:
+  fonction: Président
+  sex: M # can be "M", "Mme" or "Mlle"
+  nom: Girard
+  prenom: Alexandre
+  nationalite: Française
+  profession: Sans emploi
+  addresse:
+    escalier:
+    batiment: A3
+    numero: 3
+    extension: 
+    type: boulevard
+    nom: des Minimes
+    BP:
+    code: 31200
+    ville: Toulouse
+membre2:
+  fonction: Trésorier
+  sex: M # can be "M", "Mme" or "Mlle"
+  nom: Reyna-Sanchez
+  prenom: Gilles
+  nationalite: Française
+  profession: Sans emploi
+  addresse:
+    escalier:
+    batiment: A3
+    numero: 3
+    extension: 
+    type: boulevard
+    nom: des Minimes
+    BP:
+    code: 31200
+    ville: Toulouse
